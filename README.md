@@ -1,7 +1,9 @@
 # merlet_platform
 ## instructions
-preinstalled modern robotics library 'https://github.com/NxRLab/ModernRobotics'
+Clone the git to local.
 
-add library to matlab like "addpath('~/Desktop/EECS495_Robot_Studio/mr')"
+Open matlab, change library path to your own "addpath('~/yourfolder/mr')"
 
-change the input(roll,pitch,yaw,x,y,z) and this script will return the new pose of the merlet platform
+run merlet_ui.mlapp
+
+
